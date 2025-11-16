@@ -185,17 +185,6 @@ See `backend/README.md` for detailed API documentation.
 
 ### Featured Games
 
-![Coinflip Game](./assets/images/coinflip-game.jpg)
-*Coinflip Game - Fast-paced coin flipping action*
-
-![Dice Game](./assets/images/dice-game.jpg)
-*Dice Game - Roll the dice and win big*
-
-![Slots Game](./assets/images/slots-game.jpg)
-*Slots Game - Classic slot machine experience*
-
-### Additional Assets
-
 | | | |
 |---|---|---|
 | ![Asset 1](./assets/1.png) | ![Asset 2](./assets/2.png) | ![Asset 3](./assets/{01749521-3182-4835-8B5D-5102C041D82A}.png) |
